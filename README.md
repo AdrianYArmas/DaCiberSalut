@@ -94,7 +94,7 @@ Una vez que la aplicación esté corriendo, podrás acceder a la interfaz web en
 ## Uso 
 Una vez instalada y ejecutada la aplicación, se abrirá una interfaz web donde podrás cargar imágenes histológicas, para ser procesadas por el modelo. La aplicación proporcionará una predicción sobre la presencia de cáncer de colon o pulmón, según sea el caso. En caso de subir una imágen no histológica será detectada y se verá reflejado en la interfaz.
 
-##estructura del proyecto {#estructura-del-proyecto}
+## Estructura del proyecto 
 El proyecto tiene la siguiente estructura de archivos:
   ```bash
      DaCiberSalut/
@@ -105,7 +105,7 @@ El proyecto tiene la siguiente estructura de archivos:
     └── Ejecutable.bat               # Archivo para instalación automática en Windows
   ```
 
-## tecnologías utilizadas
+## Tecnologías utilizadas
 * Streamlit: Framework para la creación de aplicaciones web interactivas de manera sencilla.
 * PyTorch: Framework para el desarrollo de modelos de aprendizaje profundo.
 * Torchvision: Librería de visión por computadora que facilita el trabajo con imágenes.
