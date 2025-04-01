@@ -94,6 +94,20 @@ Una vez que la aplicación esté corriendo, podrás acceder a la interfaz web en
 ## Uso 
 Una vez instalada y ejecutada la aplicación, se abrirá una interfaz web donde podrás cargar imágenes histológicas, para ser procesadas por el modelo. La aplicación proporcionará una predicción sobre la presencia de cáncer de colon o pulmón, según sea el caso. En caso de subir una imágen no histológica será detectada y se verá reflejado en la interfaz.
 
+En caso correcto y que se esté pasando una imágen permitida verá algo tal que así:
+
+![Imagen cancer correcta](https://github.com/user-attachments/assets/fe311fb7-a9a9-4601-9784-92201fe37fcb)
+
+Donde pone que es histológica junto con su confianza y en rojo el tipo de cancer.
+
+
+En caso negativo observará algo tal que así:
+
+![Imagen incorrecta](https://github.com/user-attachments/assets/38d814f1-8c91-411a-b08a-e545d4710f2e)
+
+En cuyo caso se muestra un mensaje en rojo dejando claro que no es una imágen histológica.
+
+
 ## Estructura del proyecto 
 El proyecto tiene la siguiente estructura de archivos:
   ```bash
