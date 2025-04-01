@@ -7,19 +7,19 @@ El objetivo de esta aplicación es proporcionar un modelo basado en Inteligencia
 
 ## Índice
 ## Índice
-1. [Descarga](#Descarga)
-   * [Descarga manual](#Descarga-manual)
-   * [Descarga por comandos](#Descarga-por-comandos)
-2. [Instalación](#Instalación)
-   * [Instalación Automática](#Instalación-automática)
-   * [Instalación Manual](#instalación-manual)
-3. [Uso](#uso)
-4. [Estructura del Proyecto](#estructura-del-proyecto)
-5. [Tecnologías Utilizadas](#tecnologías-utilizadas)
-6. [Colaboradores](#colaboradores)
-7. [Enlace al Proyecto](#Enlace-al-proyecto)
+1. [Descarga](##Descarga)
+   * [Descarga manual](###Descarga-manual)
+   * [Descarga por comandos](###Descarga-por-comandos)
+2. [Instalación](##Instalación)
+   * [Instalación Automática](##Instalación-automática)
+   * [Instalación Manual](##instalación-manual)
+3. [Uso](##uso)
+4. [Estructura del Proyecto](##Estructura-del-proyecto)
+5. [Tecnologías Utilizadas](##Tecnologías-utilizadas)
+6. [Colaboradores](##Colaboradores)
+7. [Enlace al Proyecto](##Enlace-al-proyecto)
 
-## Descarga {#Descarga}
+## Descarga {##Descarga}
 ### Descarga-manual {#Descarga-manual}
 Descargar manualmente o clonar el proyecto.
 para descargar manualmente debes acceder al [github del proyecto](https://github.com/AdrianYArmas/DaCiberSalut), dar click al botón verde que pone código y descargar como zip:
