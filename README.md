@@ -1,3 +1,7 @@
+![ies-el-rincon](https://github.com/user-attachments/assets/4cf9d9eb-6616-48f8-9f18-a05ee70b925d)
+![cifp-los-gladiolos](https://github.com/user-attachments/assets/1395b954-426e-4b01-b26a-e58d524c8937)
+![ITB](https://github.com/user-attachments/assets/66a39526-b3eb-4ace-96fe-eb1908ff5c78)
+
 # DaCiberSalut: Predicción de Cáncer de Colon y Pulmón
 ## Introducción 
 DaCiberSalut es una herramienta desarrollada para la predicción de cáncer de colon y pulmón mediante el análisis de imágenes de histología. Este proyecto es el resultado de una colaboración entre Centro de Excelencia IES El Rincón - Gran Canaria, Institut Tecnològic de Barcelona (ITB), y CIFP Los Gladiolos - Santa Cruz de Tenerife.
