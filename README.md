@@ -1,6 +1,7 @@
-- [Español](#menú-en-español)
-- [English](#menu-in-english)
-- [Català](#menu-en-català)
+- ![España](https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg) [Español](#menú-en-español)
+- ![Reino Unido](https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_Kingdom.svg) [English](#menu-in-english)
+- ![Cataluña](https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Catalonia.svg) [Català](#menu-en-català)
+
 
 # DaCiberSalut: Predicción de Cáncer de Colon y Pulmón
 ## Introducción 
