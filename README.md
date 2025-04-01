@@ -45,6 +45,7 @@ Y ahi debe hacer un git clone:
 ##instalación
 ###instalación-automática
 Para facilitar la instalación del proyecto, puedes ejecutar el archivo Ejecutable.bat dentro de la carpeta del proyecto. Esto instalará todos los requisitos automáticamente y pondrá en marcha la aplicación.
+
 ![Ejecutable.bat](https://github.com/user-attachments/assets/5ff96d37-bdb4-4552-9222-2132adbe142c)
 
 Y una vez se cierra esta ventana, parará la ejecución de la aplicación. Esta instrucción queda reflejada mediante un mensaje rojo en la misma ventana:
@@ -112,13 +113,19 @@ Matplotlib: Librería para la creación de gráficos y visualización de datos.
 
 ##Colaboradores
 Este proyecto fue realizado por:
+
 [Francisco José González Rodríguez]()
+
 [Juan Carlos Cox Fernández](https://github.com/JuanCarlosCox)
+
 [Adrián Yared Armas de la Nuez](https://github.com/AdrianYArmas)
 
 Colaboradores de las instituciones:
+
 [IES El Rincón - Gran Canaria](https://www3.gobiernodecanarias.org/medusa/edublog/ieselrincon/)
+
 [Institut Tecnològic de Barcelona (ITB)](https://itb.cat/)
+
 [CIFP Los Gladiolos - Santa Cruz de Tenerife](https://www.losgladiolos.es/)
 
 ##enlace-al-proyecto
