@@ -106,11 +106,11 @@ El proyecto tiene la siguiente estructura de archivos:
 
 ##tecnologías-utilizadas
 * Streamlit: Framework para la creación de aplicaciones web interactivas de manera sencilla.
-PyTorch: Framework para el desarrollo de modelos de aprendizaje profundo.
-Torchvision: Librería de visión por computadora que facilita el trabajo con imágenes.
-Timm: Librería que incluye modelos preentrenados para tareas de visión por computadora.
-Pillow: Librería para la manipulación de imágenes en Python.
-Matplotlib: Librería para la creación de gráficos y visualización de datos.
+* PyTorch: Framework para el desarrollo de modelos de aprendizaje profundo.
+* Torchvision: Librería de visión por computadora que facilita el trabajo con imágenes.
+* Timm: Librería que incluye modelos preentrenados para tareas de visión por computadora.
+* Pillow: Librería para la manipulación de imágenes en Python.
+* Matplotlib: Librería para la creación de gráficos y visualización de datos.
 
 ##Colaboradores
 Este proyecto fue realizado por:
@@ -130,5 +130,6 @@ Colaboradores de las instituciones:
 [CIFP Los Gladiolos - Santa Cruz de Tenerife](https://www.losgladiolos.es/)
 
 ##enlace-al-proyecto
+
 Puedes encontrar el código fuente completo del proyecto en GitHub:
 [https://github.com/AdrianYArmas/DaCiberSalut](https://github.com/AdrianYArmas/DaCiberSalut)
