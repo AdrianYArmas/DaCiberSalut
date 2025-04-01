@@ -23,6 +23,7 @@ El objetivo de esta aplicación es proporcionar un modelo basado en Inteligencia
 ### Descarga manual
 Descargar manualmente o clonar el proyecto.
 para descargar manualmente debes acceder al [github del proyecto](https://github.com/AdrianYArmas/DaCiberSalut), dar click al botón verde que pone código y descargar como zip:
+
 ![Descarga zip](https://github.com/user-attachments/assets/756304f6-fba2-44e4-95b4-6a02826303b0)
 
 Una vez descargada aparecerá en la carpeta descargas o en un desplegable en la esquina superior derecha del navegador:
@@ -30,6 +31,7 @@ Una vez descargada aparecerá en la carpeta descargas o en un desplegable en la 
 ![Carpeta .zip descargada](https://github.com/user-attachments/assets/bcf795a5-6e36-4950-9f79-979cb45ddd05)
 
 Previo a su ejecución debes extraer la carpeta que se encuentra en ".zip", dando click derecho sobre ella con el ratón > extraer todo, y seleccionando la ruta donde quiera tener la aplicación.
+
 ![Vista de extraer todo](https://github.com/user-attachments/assets/bf04ae82-31bb-482e-b491-4ea249d51331)
 
 ### Descarga por comandos
