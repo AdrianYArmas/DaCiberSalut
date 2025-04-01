@@ -10,7 +10,7 @@ El objetivo de esta aplicación es proporcionar un modelo basado en Inteligencia
 1. [Descarga](##Descarga)
    * [Descarga manual](###Descarga-manual)
    * [Descarga por comandos](###Descarga-por-comandos)
-2. [Instalación](##instalación)
+2. [Instalación](## Instalación)
    * [Instalación Automática](###instalación-automática)
    * [Instalación Manual](###instalación-manual)
 3. [Uso](##uso)
@@ -26,6 +26,7 @@ para descargar manualmente debes acceder al [github del proyecto](https://github
 ![Descarga zip](https://github.com/user-attachments/assets/756304f6-fba2-44e4-95b4-6a02826303b0)
 
 Una vez descargada aparecerá en la carpeta descargas o en un desplegable en la esquina superior derecha del navegador:
+
 ![Carpeta .zip descargada](https://github.com/user-attachments/assets/bcf795a5-6e36-4950-9f79-979cb45ddd05)
 
 Previo a su ejecución debes extraer la carpeta que se encuentra en ".zip", dando click derecho sobre ella con el ratón > extraer todo, y seleccionando la ruta donde quiera tener la aplicación.
@@ -42,7 +43,7 @@ Y ahi debe hacer un git clone:
   git clone https://github.com/AdrianYArmas/DaCiberSalut.git
 ```
 
-## instalación
+## Instalación
 ### instalación-automática
 Para facilitar la instalación del proyecto, puedes ejecutar el archivo Ejecutable.bat dentro de la carpeta del proyecto. Esto instalará todos los requisitos automáticamente y pondrá en marcha la aplicación.
 
@@ -132,4 +133,5 @@ Colaboradores de las instituciones:
 ## Enlace-al-proyecto
 
 Puedes encontrar el código fuente completo del proyecto en GitHub:
+
 [https://github.com/AdrianYArmas/DaCiberSalut](https://github.com/AdrianYArmas/DaCiberSalut)
