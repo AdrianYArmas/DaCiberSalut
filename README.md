@@ -49,6 +49,7 @@ Para facilitar la instalación del proyecto, puedes ejecutar el archivo Ejecutab
 ![Ejecutable.bat](https://github.com/user-attachments/assets/5ff96d37-bdb4-4552-9222-2132adbe142c)
 
 Y una vez se cierra esta ventana, parará la ejecución de la aplicación. Esta instrucción queda reflejada mediante un mensaje rojo en la misma ventana:
+
 ![Prueba-mensaje-usuario-cerrado](https://github.com/user-attachments/assets/941a9576-1b61-41f6-9098-f9dd5b680164)
 
 ###instalación-manual
