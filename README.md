@@ -1,8 +1,9 @@
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+<div style="display: flex; justify-content: space-between; width: 100%; padding: 0 10%; box-sizing: border-box;">
   <img src="https://github.com/user-attachments/assets/4cf9d9eb-6616-48f8-9f18-a05ee70b925d" alt="ies-el-rincon-logo" width="100" height="200"/>
   <img src="https://github.com/user-attachments/assets/1395b954-426e-4b01-b26a-e58d524c8937" alt="cifp-los-gladiolos-logo" width="100" height="200"/>
   <img src="https://github.com/user-attachments/assets/66a39526-b3eb-4ace-96fe-eb1908ff5c78" alt="ITB-logo" width="200" height="100"/>
 </div>
+
 
 # DaCiberSalut: Predicción de Cáncer de Colon y Pulmón
 ## Introducción 
