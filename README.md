@@ -10,7 +10,7 @@ El objetivo de esta aplicación es proporcionar un modelo basado en Inteligencia
 1. [Descarga](##Descarga)
    * [Descarga manual](###Descarga-manual)
    * [Descarga por comandos](###Descarga-por-comandos)
-2. [Instalación](## Instalación)
+2. [Instalación](##Instalación)
    * [Instalación Automática](###instalación-automática)
    * [Instalación Manual](###instalación-manual)
 3. [Uso](##uso)
