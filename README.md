@@ -1,8 +1,3 @@
-  <img src="https://github.com/user-attachments/assets/4cf9d9eb-6616-48f8-9f18-a05ee70b925d" alt="ies-el-rincon-logo" width="200" height="150"/>
-  <img src="https://github.com/user-attachments/assets/1395b954-426e-4b01-b26a-e58d524c8937" alt="cifp-los-gladiolos-logo" width="200" height="150"/>
-  <img src="https://github.com/user-attachments/assets/66a39526-b3eb-4ace-96fe-eb1908ff5c78" alt="ITB-logo" width="200" height="150"/>
-
-
 # DaCiberSalut: Predicción de Cáncer de Colon y Pulmón
 ## Introducción 
 DaCiberSalut es una herramienta desarrollada para la predicción de cáncer de colon y pulmón mediante el análisis de imágenes de histología. Este proyecto es el resultado de una colaboración entre Centro de Excelencia IES El Rincón - Gran Canaria, Institut Tecnològic de Barcelona (ITB), y CIFP Los Gladiolos - Santa Cruz de Tenerife.
@@ -10,8 +5,7 @@ DaCiberSalut es una herramienta desarrollada para la predicción de cáncer de c
 ## Objetivo
 El objetivo de esta aplicación es proporcionar un modelo basado en Inteligencia Artificial que permita detectar posibles indicadores de cáncer en imágenes de tejidos, facilitando el diagnóstico médico. La aplicación utiliza redes neuronales profundas para analizar las imágenes histológicas y proporcionar una predicción.
 
-## Índice
-## Índice
+## Índice 
 1. [Descarga](#Descarga)
    * [Descarga manual](#Descarga-manual)
    * [Descarga por comandos](#Descarga-por-comandos)
@@ -137,7 +131,7 @@ El proyecto tiene la siguiente estructura de archivos:
 ## Colaboradores
 Este proyecto fue realizado por:
 
-[Francisco José González Rodríguez]()
+[Francisco José González Rodríguez](https://github.com/fjgr)
 
 [Juan Carlos Cox Fernández](https://github.com/JuanCarlosCox)
 
