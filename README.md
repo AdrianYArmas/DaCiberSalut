@@ -7,7 +7,7 @@ El objetivo de esta aplicación es proporcionar un modelo basado en Inteligencia
 
 ## Índice
 ## Índice
-1. [Descarga](##Descarga)
+1. [Descarga](#Descarga)
    * [Descarga manual](###Descarga-manual)
    * [Descarga por comandos](###Descarga-por-comandos)
 2. [Instalación](##Instalación)
@@ -19,7 +19,7 @@ El objetivo de esta aplicación es proporcionar un modelo basado en Inteligencia
 6. [Colaboradores](##Colaboradores)
 7. [Enlace al Proyecto](##Enlace-al-proyecto)
 
-##Descarga
+## Descarga
 ### Descarga-manual {#Descarga-manual}
 Descargar manualmente o clonar el proyecto.
 para descargar manualmente debes acceder al [github del proyecto](https://github.com/AdrianYArmas/DaCiberSalut), dar click al botón verde que pone código y descargar como zip:
