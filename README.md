@@ -8,19 +8,19 @@ El objetivo de esta aplicación es proporcionar un modelo basado en Inteligencia
 ## Índice
 ## Índice
 1. [Descarga](#Descarga)
-   * [Descarga manual](###Descarga-manual)
-   * [Descarga por comandos](###Descarga-por-comandos)
-2. [Instalación](##Instalación)
-   * [Instalación Automática](##Instalación-automática)
-   * [Instalación Manual](##instalación-manual)
-3. [Uso](##uso)
-4. [Estructura del Proyecto](##Estructura-del-proyecto)
-5. [Tecnologías Utilizadas](##Tecnologías-utilizadas)
-6. [Colaboradores](##Colaboradores)
-7. [Enlace al Proyecto](##Enlace-al-proyecto)
+   * [Descarga manual](#Descarga-manual)
+   * [Descarga por comandos](#Descarga-por-comandos)
+2. [Instalación](#Instalación)
+   * [Instalación Automática](#Instalación-automática)
+   * [Instalación Manual](#Instalación-manual)
+3. [Uso](#Uso)
+4. [Estructura del Proyecto](#Estructura-del-proyecto)
+5. [Tecnologías Utilizadas](#Tecnologías-utilizadas)
+6. [Colaboradores](#Colaboradores)
+7. [Enlace al Proyecto](#Enlace-al-proyecto)
 
 ## Descarga
-### Descarga-manual {#Descarga-manual}
+### Descarga manual
 Descargar manualmente o clonar el proyecto.
 para descargar manualmente debes acceder al [github del proyecto](https://github.com/AdrianYArmas/DaCiberSalut), dar click al botón verde que pone código y descargar como zip:
 ![Descarga zip](https://github.com/user-attachments/assets/756304f6-fba2-44e4-95b4-6a02826303b0)
@@ -32,7 +32,7 @@ Una vez descargada aparecerá en la carpeta descargas o en un desplegable en la 
 Previo a su ejecución debes extraer la carpeta que se encuentra en ".zip", dando click derecho sobre ella con el ratón > extraer todo, y seleccionando la ruta donde quiera tener la aplicación.
 ![Vista de extraer todo](https://github.com/user-attachments/assets/bf04ae82-31bb-482e-b491-4ea249d51331)
 
-### Descarga por comandos {#Descarga-por-comandos}
+### Descarga por comandos
 Si deseas descargar el proyecto mediante el cmd, deberás ir a la ruta en la que quiera tener la aplicación, por ejemplo el escritorio:
 ```bash
   cd C:\Users\Su-nombre-de-usuario\Desktop\
@@ -43,8 +43,8 @@ Y ahi debe hacer un git clone:
   git clone https://github.com/AdrianYArmas/DaCiberSalut.git
 ```
 
-## Instalación {#Instalación}
-### instalación automática {#Instalación-automática}
+## Instalación
+### instalación automática 
 Para facilitar la instalación del proyecto, puedes ejecutar el archivo Ejecutable.bat dentro de la carpeta del proyecto. Esto instalará todos los requisitos automáticamente y pondrá en marcha la aplicación.
 
 ![Ejecutable.bat](https://github.com/user-attachments/assets/5ff96d37-bdb4-4552-9222-2132adbe142c)
@@ -53,7 +53,7 @@ Y una vez se cierra esta ventana, parará la ejecución de la aplicación. Esta 
 
 ![Prueba-mensaje-usuario-cerrado](https://github.com/user-attachments/assets/941a9576-1b61-41f6-9098-f9dd5b680164)
 
-### instalación manual {#Instalación-manual}
+### instalación manual 
 Si prefieres instalar el proyecto manualmente, sigue estos pasos:
 1. Crea una carpeta para el proyecto:
 ```bash
@@ -91,7 +91,7 @@ Una vez que la aplicación esté corriendo, podrás acceder a la interfaz web en
    http://localhost:8501/
 ```
 
-## Uso {#uso}
+## Uso 
 Una vez instalada y ejecutada la aplicación, se abrirá una interfaz web donde podrás cargar imágenes histológicas, para ser procesadas por el modelo. La aplicación proporcionará una predicción sobre la presencia de cáncer de colon o pulmón, según sea el caso. En caso de subir una imágen no histológica será detectada y se verá reflejado en la interfaz.
 
 ##estructura del proyecto {#estructura-del-proyecto}
@@ -105,7 +105,7 @@ El proyecto tiene la siguiente estructura de archivos:
     └── Ejecutable.bat               # Archivo para instalación automática en Windows
   ```
 
-## tecnologías utilizadas {#tecnologías-utilizadas}
+## tecnologías utilizadas
 * Streamlit: Framework para la creación de aplicaciones web interactivas de manera sencilla.
 * PyTorch: Framework para el desarrollo de modelos de aprendizaje profundo.
 * Torchvision: Librería de visión por computadora que facilita el trabajo con imágenes.
@@ -113,7 +113,7 @@ El proyecto tiene la siguiente estructura de archivos:
 * Pillow: Librería para la manipulación de imágenes en Python.
 * Matplotlib: Librería para la creación de gráficos y visualización de datos.
 
-## Colaboradores {#colaboradores}
+## Colaboradores
 Este proyecto fue realizado por:
 
 [Francisco José González Rodríguez]()
@@ -130,7 +130,7 @@ Colaboradores de las instituciones:
 
 [CIFP Los Gladiolos - Santa Cruz de Tenerife](https://www.losgladiolos.es/)
 
-## Enlace al proyecto {#Enlace-al-proyecto}
+## Enlace al proyecto 
 
 Puedes encontrar el código fuente completo del proyecto en GitHub:
 
